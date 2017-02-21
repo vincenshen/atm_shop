@@ -1,0 +1,28 @@
+2017-02-21 13:51:58,793 - amt_logger - INFO - 1234 authentication success
+2017-02-21 13:53:05,197 - amt_logger - ERROR - 1234 authentication failure
+2017-02-21 13:53:24,746 - amt_logger - INFO - 1234 authentication success
+2017-02-21 13:53:24,746 - amt_logger - INFO - 1234 authentication success
+2017-02-21 13:55:20,221 - amt_logger - ERROR - id 1234 - authentication failure
+2017-02-21 13:55:24,405 - amt_logger - INFO - id 1234 - authentication success
+2017-02-21 13:55:24,405 - amt_logger - INFO - id 1234 - authentication success
+2017-02-21 14:04:38,922 - ERROR - id 1234 - authentication failure
+2017-02-21 14:04:42,050 - INFO - id 1234 - authentication success
+2017-02-21 14:04:42,050 - INFO - id 1234 - authentication success
+2017-02-21 14:13:46,970 - INFO - id 1234 - authentication success
+2017-02-21 14:14:31,639 - INFO - id 1234 - authentication success
+2017-02-21 14:15:07,037 - INFO - id 1234 - authentication success
+2017-02-21 14:15:46,667 - INFO - id 1234 - authentication success
+2017-02-21 14:25:43,897 - INFO - id 1234 - authentication success
+2017-02-21 14:31:19,358 - INFO - id 1234 - authentication success
+2017-02-21 14:31:24,785 - INFO - from id 1234 transfer to id 1235 success, amount 1000
+2017-02-21 14:31:33,365 - INFO - id 1234 repay success, amount 1000
+2017-02-21 14:31:39,701 - INFO - id 1234 cash success, amount 1000
+2017-02-21 22:31:09,552 - INFO - id 1234 - authentication success
+2017-02-21 22:31:33,644 - INFO - from id 1234 transfer to id 1235 success, amount 1000
+2017-02-21 22:31:42,622 - INFO - id 1234 repay success, amount 1000
+2017-02-21 22:31:50,873 - INFO - id 1234 cash success, amount 1000
+2017-02-21 23:05:25,369 - INFO - id 1234 - authentication success
+2017-02-21 23:06:24,110 - INFO - id 1234 - authentication success
+2017-02-21 23:06:35,550 - INFO - id 1234 repay success, amount 1235
+2017-02-21 23:06:50,188 - INFO - from id 1234 transfer to id 1235 success, amount 100
+2017-02-21 23:06:57,778 - INFO - id 1234 cash success, amount 100

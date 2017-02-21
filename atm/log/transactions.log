@@ -1,0 +1,18 @@
+2017-02-21 14:31:24,785 - INFO - from id 1234 transfer to id 1235 success, amount 1000
+2017-02-21 14:31:33,365 - INFO - id 1234 repay success, amount 1000
+2017-02-21 14:31:33,365 - INFO - id 1234 repay success, amount 1000
+2017-02-21 14:31:39,701 - INFO - id 1234 cash success, amount 1000
+2017-02-21 14:31:39,701 - INFO - id 1234 cash success, amount 1000
+2017-02-21 14:31:39,701 - INFO - id 1234 cash success, amount 1000
+2017-02-21 22:31:33,644 - INFO - from id 1234 transfer to id 1235 success, amount 1000
+2017-02-21 22:31:42,622 - INFO - id 1234 repay success, amount 1000
+2017-02-21 22:31:42,622 - INFO - id 1234 repay success, amount 1000
+2017-02-21 22:31:50,873 - INFO - id 1234 cash success, amount 1000
+2017-02-21 22:31:50,873 - INFO - id 1234 cash success, amount 1000
+2017-02-21 22:31:50,873 - INFO - id 1234 cash success, amount 1000
+2017-02-21 23:06:35,550 - INFO - id 1234 repay success, amount 1235
+2017-02-21 23:06:50,188 - INFO - from id 1234 transfer to id 1235 success, amount 100
+2017-02-21 23:06:50,188 - INFO - from id 1234 transfer to id 1235 success, amount 100
+2017-02-21 23:06:57,778 - INFO - id 1234 cash success, amount 100
+2017-02-21 23:06:57,778 - INFO - id 1234 cash success, amount 100
+2017-02-21 23:06:57,778 - INFO - id 1234 cash success, amount 100
